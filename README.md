@@ -1,4 +1,4 @@
-James Slade (Aaron)  
+<h1>James Slade (Aaron)</h1>  
 <a href="mailto:jaaronslade@gmail.com">jaaronslade@gmail.com</a>  
 <a href="https://slade-international.com">www.slade-international.com</a>
 
